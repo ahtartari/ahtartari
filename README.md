@@ -7,10 +7,12 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) 
 
+![](https://gifdb.com/images/high/raccoon-pixel-art-ckb739x3ptc67puj.gif)
 
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahtartari&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+https://gifdb.com/gif/raccoon-pixel-art-ckb739x3ptc67puj.html
 
 https://github.com/anuraghazra/github-readme-stats#top-languages-card
 https://github.com/Ileriayo/markdown-badges
